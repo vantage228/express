@@ -167,7 +167,7 @@ npm test
 
 ## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
+The original author of Express is [OM SINGH](https://github.com/vantage228)
 
 [List of all contributors](https://github.com/expressjs/express/graphs/contributors)
 
